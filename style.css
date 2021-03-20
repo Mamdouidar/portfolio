@@ -496,7 +496,7 @@ textarea::placeholder {
     }
 
     .project-btn {
-        margin-top: 1rem;
+        margin-top: 1rem 0 0;
     }
 }
 
