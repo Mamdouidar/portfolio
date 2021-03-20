@@ -490,6 +490,14 @@ textarea::placeholder {
     .nav {
         left: 60%;
     }
+
+    .project-btns {
+        flex-direction: column;
+    }
+
+    .project-btn {
+        margin-top: 1rem;
+    }
 }
 
 
